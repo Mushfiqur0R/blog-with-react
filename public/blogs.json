@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.postimg.cc/fRRFZBZF/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "title": "The Art of Cooking",
+      "author": "Musfikur Rahman",
+      "author_img": "https://i.postimg.cc/L5qXrz5Z/linkdin-profile.png",
+      "posted_date": "2024-03-14",
+      "reading_time": 10,
+      "hashtags": ["food", "recipes", "cooking"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.postimg.cc/7ZcyWp7X/photo-1483884105135-c06ea81a7a80.avif",
+      "title": "Exploring the Wilderness",
+      "author": "Irina Vasitex",
+      "author_img": "https://i.postimg.cc/4yhf8s26/irina.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 15,
+      "hashtags": ["nature", "hiking", "adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.postimg.cc/dV0qX2fQ/photo-1512820790803-83ca734da794.avif",
+      "title": "The Secrets of the Universe",
+      "author": "Rakibul Islam",
+      "author_img": "https://i.postimg.cc/t4RTbQsj/rakib.png",
+      "posted_date": "2024-03-12",
+      "reading_time": 20,
+      "hashtags": ["science", "physics", "cosmology"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.postimg.cc/7LvgXZBV/photo-1542435503-956c469947f6.avif",
+      "title": "Mastering Chess Strategies",
+      "author": "Bobby Fischer",
+      "author_img": "https://i.postimg.cc/4x1WKt4c/image.png",
+      "posted_date": "2024-03-11",
+      "reading_time": 25,
+      "hashtags": ["chess", "strategy", "games"]
+    }
+  ]
+  
